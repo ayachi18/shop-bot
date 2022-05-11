@@ -1,0 +1,54 @@
+{
+ "accounts": [
+  {
+   "name": "steam",
+   "price": 4000,
+   "tax": 4211,
+   "emails": [
+    "lpaper14:5211314",
+    "qqazwsx121tw:hz594211",
+    "chevyboy831:chevy831",
+    "puty2138:1037618",
+    "seteven2:22409513",
+    "rfdestin:sidney32"
+   ]
+  },
+  {
+   "name": "roblx",
+   "price": 10000,
+   "tax": 10527,
+   "emails": [
+    "acc ‏AmyMendez7:7zedneMym",
+    "‏A",
+    "acc ‏CarolynHodges9:9segd",
+    "‏OHnyloraC"
+   ]
+  },
+  {
+   "name": "disney+",
+   "price": 10000,
+   "tax": 10527,
+   "emails": [
+    "dunya.gunes.01@gmail.com:Edamelda95"
+   ]
+  },
+  {
+   "name": "disney",
+   "price": 10000,
+   "tax": 10527,
+   "emails": []
+  }
+ ],
+ "status": "open",
+ "admins": [
+  "901578462647701534",
+  "943268075166375958",
+  "532280379604860929",
+  "951572556299796550"
+ ],
+ "ch": "448597666658779146",
+ "notif": "969238937325420574",
+ "role": "944272689273651291",
+ "blacklist": [],
+ "buy": "all"
+}
